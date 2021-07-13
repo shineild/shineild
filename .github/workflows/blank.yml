@@ -23,9 +23,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: shineild/shineild@master
+        uses: Platane/snk@master
         with:
-          github_user_name: shineild
+          github_user_name: github.shineild
           svg_out_path: dist/github-contribution-grid-snake.svg
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
