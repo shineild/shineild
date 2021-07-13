@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=VirusTotal&logoColor=white"/></a>
 -->
 
-<h3 align="center">Tech Stack</h3>
+## Tech Stack
 
-<p align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -32,18 +32,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 </p>
-<ul>
-<li><a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank">Colours sorted by hue</a></li>
-<li><a href="#colours-sorted-by-hue" target="_blank">Colours stored alphabetically</a></li>
-</ul>
 
-<h3 align="center">Me</h3>
-<p align="center">
+
+## ME
+
 
 <a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank" rel=”noopener noreferrer”>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 <a href="mailto:shin.eild71@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
 
 ![snake gif](https://github.com/shineild/shineild/blob/output/github-contribution-grid-snake.svg)
