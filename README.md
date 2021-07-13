@@ -1,6 +1,9 @@
 # Let's start analyzing malware!
 **LIKE : Malware Analyzing, Security Solution, Alogrithm, EDU**
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shineild71)](https://solved.ac/shineild71)
+
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +21,7 @@
 
 
 
-## 👨‍💻 About ME
+## 👨‍💻 Link About ME
 
 <a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://shineild-security.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
