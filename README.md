@@ -32,10 +32,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 </p>
-
+<ul>
+<li><a href="#colours-sorted-by-hue" target="_blank">Colours sorted by hue</a></li>
+<li><a href="#colours-sorted-by-hue" target="_blank">Colours stored alphabetically</a></li>
+</ul>
 
 <h3 align="center">Me</h3>
-[건망증이 심한 엔지니어](https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524){:target="_blank"}
 <p align="center">
 
 <a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank" rel=”noopener noreferrer”>
