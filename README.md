@@ -3,7 +3,6 @@
 
 **📌Team : Grep**
 
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -20,14 +19,14 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 
 <br>
-<br>
+
 
 ## 🙂 BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shineild71)](https://solved.ac/shineild71)
 ### 🚩 Goal : Platinum
 
 <br>
-<br>
+
 
 ## 👨‍💻 Link About ME
 
@@ -37,7 +36,7 @@
 <a href="https://www.facebook.com/profile.php?id=100023346488534" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 <br>
-<br>
+
 
 ### 😋 yummy commits
 ![snake gif](https://github.com/shineild/shineild/blob/output/github-contribution-grid-snake.svg)
