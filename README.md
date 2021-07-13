@@ -1,5 +1,5 @@
 # Let's start analyzing malware!
-**LIKE : Malware Analyzing, Security Solution, Alogrithm, EDU
+**LIKE : Malware Analyzing, Security Solution, Alogrithm, EDU**
 
 
 ## 🛠️ Tech Stack
