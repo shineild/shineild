@@ -1,9 +1,6 @@
-# Let's start analyzing malware!
-**LIKE : Malware Analyzing, Security Solution, Alogrithm, EDU**
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shineild71)](https://solved.ac/shineild71)
-안녕
+# Profile
+**LIKE : Malware Analyzing, Security Solution Develop, Alogrithm, EDU**
+**Team : Grep**
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +16,9 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 
+## 🙂 BOJ
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shineild71)](https://solved.ac/shineild71)
+**Goal : Platinum**
 
 
 ## 👨‍💻 Link About ME
