@@ -1,4 +1,4 @@
-<h2 align="center">Thank you for reading my profile.</h2>
+<h3 align="center">Thank you for reading my profile.</h3>
 
 <!--
 **shineild/shineild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
