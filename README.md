@@ -1,29 +1,13 @@
-<h3 align="center">Thank you for reading my profile.</h3>
+# Let's start analyzing malware!
+**LIKE : Malware Analyzing, Security Solution, Alogrithm, EDU
 
-<!--
-**shineild/shineild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 🛠️ Tech Stack
 
 <!--
 <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=VirusTotal&logoColor=white"/></a>
 -->
-
-## Tech Stack
-
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -31,12 +15,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-</p>
 
 
-## ME
 
-<a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+## 👨‍💻 About ME
+
+<a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://shineild-security.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/shin.eild71@gmail.cocm-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100023346488534" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 ![snake gif](https://github.com/shineild/shineild/blob/output/github-contribution-grid-snake.svg)
