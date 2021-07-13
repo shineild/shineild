@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual_Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual_Studio_Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Virus_Total-394EFF?style=flat-square&logo=Virus_Total&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Virus_Total-394EFF?style=flat-square&logo=Virus Total&logoColor=white"/></a>
 </p>
 
 ![snake gif](https://github.com/shineild/shineild/blob/output/github-contribution-grid-snake.svg)
