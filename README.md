@@ -1,7 +1,7 @@
 # Profile
-**LIKE : Malware Analyzing, Security Solution Develop, Alogrithm, EDU**
+**📌 LIKE : Malware Analyzing, Security Solution Develop, Alogrithm, EDU**
 
-**Team : Grep**
+**📌Team : Grep**
 
 <br>
 
