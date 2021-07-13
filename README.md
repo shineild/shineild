@@ -1,5 +1,6 @@
 # Profile
 **LIKE : Malware Analyzing, Security Solution Develop, Alogrithm, EDU**
+
 **Team : Grep**
 
 ## 🛠️ Tech Stack
@@ -18,7 +19,7 @@
 
 ## 🙂 BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shineild71)](https://solved.ac/shineild71)
-**Goal : Platinum**
+### Goal : Platinum
 
 
 ## 👨‍💻 Link About ME
