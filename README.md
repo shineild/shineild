@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <!--
 <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 -->
-<center>
-### Stack
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-</center>
-
+</p>
 
 ![snake gif](https://github.com/shineild/shineild/blob/output/github-contribution-grid-snake.svg)
