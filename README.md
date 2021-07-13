@@ -28,6 +28,7 @@
 
 <br>
 <br>
+
 ## 👨‍💻 Link About ME
 
 <a href="https://www.notion.so/eild/Kang-shin-il-5e21cd5adee540bab02a15a95da55524" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
